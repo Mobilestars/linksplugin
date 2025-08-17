@@ -1,0 +1,17 @@
+name: Linksplugin
+version: 1.0
+main: de.scholle.linksplugin.Linksplugin
+api-version: 1.21
+commands:
+  discord:
+    description: Zeigt den Discord-Link an
+    usage: /discord
+  dc:
+    description: Zeigt den Discord-Link an
+    usage: /dc
+  texturepack:
+    description: Zeigt den Texturepack-Link an
+    usage: /texturepack
+  resourcepack:
+    description: Zeigt den Resourcepack-Link an
+    usage: /resourcepack
